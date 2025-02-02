@@ -1,1 +1,1 @@
-![Estatísticas](https://github-readme-stats-sigma-five.vercel.app/api?username=beatriz-almeida&show_icons=true&theme=dark)
+![Estatísticas](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beatriz-almeida&theme=github_dark)
