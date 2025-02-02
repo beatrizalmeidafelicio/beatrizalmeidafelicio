@@ -1,1 +1,1 @@
-![Streak](https://streak-stats.demolab.com/?user=beatriz-almeida&theme=dark)
+![Atividade](https://activity-graph.herokuapp.com/graph?username=beatriz-almeida&theme=github)
