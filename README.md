@@ -1,1 +1,1 @@
-![Estatísticas](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beatriz-almeida&theme=github_dark)
+![Streak](https://streak-stats.demolab.com/?user=beatriz-almeida&theme=dark)
