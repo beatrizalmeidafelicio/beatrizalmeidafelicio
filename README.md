@@ -1,1 +1,1 @@
-![Métricas](https://metrics.lecoq.io/beatriz-almeida?template=classic&isocalendar=1&languages=1&followup=1)
+![Cabeçalho](https://github-readme-header-generator.vercel.app/api?username=beatriz-almeida&theme=dark)
